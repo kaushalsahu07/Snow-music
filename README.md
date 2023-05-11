@@ -1,5 +1,5 @@
 # Snow-music (discord bot website)
-### This Website Is Mabe By Using Html, Css [Vist Website](https://snow-music.weddrgd.repl.co/). 
+### This Website Is Mabe By Using Html, Css [Vist Website](https://snow-music.kaushalsahu.repl.co). 
 ![img](img/snow-1.jpg)
 1. Add invite link of bot {index.html}
 ```html
